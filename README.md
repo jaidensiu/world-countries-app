@@ -20,7 +20,7 @@ An Android app that displays country details and view a selected country on a ma
 - Kotlin
 - GraphQL
 - Jetpack Compose
-- Apollo Kotlin
+- Apollo GraphQL
 - Hilt
 - JUnit
 - Mockito
@@ -29,3 +29,4 @@ An Android app that displays country details and view a selected country on a ma
 ## Resources
 - [Countries GraphQL API](https://studio.apollographql.com/public/countries/variant/current/home)
 - [OpenStreetMap Android](https://github.com/osmdroid/osmdroid)
+- [Apollo GraphQL for Kotlin](https://github.com/apollographql/apollo-kotlin)
