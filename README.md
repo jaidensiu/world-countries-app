@@ -4,15 +4,17 @@ An Android app that displays country details and view a selected country on a ma
 
 ## Demo
 
-<img src="https://github.com/jaidensiu/world-countries-app/blob/master/demo.gif" alt="App demo" height="500px">
+<img src="https://github.com/jaidensiu/world-countries-app/blob/master/demo.gif" alt="App demo" height="400px">
+
+## Screenshots
 
 | Countries List View                                                | Countries Filter View                                                 |
 |--------------------------------------------------------------------|-----------------------------------------------------------------------|
-| <img src="countries_list.png" alt="Countries list" height="500px"> | <img src="countries_filter.png" alt="Countries filter" height="500px">|
+| <img src="countries_list.png" alt="Countries list" height="400px"> | <img src="countries_filter.png" alt="Countries filter" height="400px">|
 
 | Country Details View                                                   | Country Map View                                               |
 |------------------------------------------------------------------------|----------------------------------------------------------------|
-| <img src="country_details.png" alt="Countries details" height="500px"> | <img src="country_map.png" alt="Country map" height="500px">   |
+| <img src="country_details.png" alt="Countries details" height="400px"> | <img src="country_map.png" alt="Country map" height="400px">   |
 
 ## Tech Stack
 - Kotlin
